@@ -1,5 +1,5 @@
 # 3rd Year - Week 1 Module
-
+  
 ## Topics Covered
 - Star Patterns
 - Number Patterns
@@ -23,10 +23,12 @@
 13. Sandwich Pattern
 14. Incrementing Diamond Pattern
 
-## Repository Structure
+## Repository Contents
 
-📄 Module 1.pdf
-📄 Square Pattern.pdf
+- 📁 Module-1 → C++ Source Code
+- 📄 Module 1.pdf → Handwritten Notes
+- 📄 output.pdf → Output Screenshots
+  
+## Developed By
 
-Author:
-Gaurav Singh
+**Gaurav Singh**
