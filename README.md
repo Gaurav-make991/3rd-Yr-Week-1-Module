@@ -23,6 +23,15 @@
 13. Sandwich Pattern
 14. Incrementing Diamond Pattern
 
+## Concepts Covered
+
+- Pattern Printing
+- Nested Loops
+- Conditional Statements
+- Number Patterns
+- Star Patterns
+
+
 ## Repository Contents
 
 - 📁 C++ Source Code - All C++ programs
