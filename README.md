@@ -27,7 +27,7 @@
 
 - 📁 Module-1 → C++ Source Code
 - 📄 Module 1.pdf → Handwritten Notes
-- 📄 output.pdf → Output Screenshots
+- 📄 Programs output.pdf → Output Screenshots
   
 ## Developed By
 
