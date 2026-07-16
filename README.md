@@ -25,10 +25,11 @@
 
 ## Repository Contents
 
-- 📁 Module-1 → C++ Source Code
-- 📄 Module 1.pdf → Handwritten Notes
-- 📄 Programs output.pdf → Output Screenshots
+- 📁 C++ Source Code - All C++ programs
+- 📄 Module 1.pdf - Handwritten Notes
+- 📄 Program Outputs.pdf - Output Screenshots
   
 ## Developed By
 
 **Gaurav Singh**
+B.Tech CSE (AI & ML)
